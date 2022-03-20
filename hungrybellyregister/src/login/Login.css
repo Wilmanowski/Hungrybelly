@@ -1,0 +1,30 @@
+.Register {
+    padding: 30px 750px;
+}
+
+.registerForm{
+    margin: 10px 100px 0px;
+    width: 400px;
+    color: pink;
+}
+
+.registerButton {
+    margin: 20px 0px 15px 240px;
+    color: black;
+}
+
+.center{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 160px;
+    width: 250px;
+    height: 250px;
+  }
+
+.registerTable{
+
+    border-radius: 20px;
+    background-color:rgb(129, 110, 136);
+}
